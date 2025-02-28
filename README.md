@@ -8,6 +8,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino)
 
 #### 🔧 Frameworks y Herramientas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=springboot&logoColor=white)
@@ -20,7 +21,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino)
+
 
 ---
 ### 📊 GitHub Stats
