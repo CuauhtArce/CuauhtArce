@@ -27,5 +27,5 @@
 
 ---
 ### 📬 ¡Conéctate conmigo!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://1drv.ms/w/c/321567ffd51d68c8/EdtUVNZMKV9JmvtusgfrFH4B1kEg70zgjrINIuo6bP5lnw?e=O1MNYN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/cuauhtemoc-abisaid-arce-jaimes-aa98b4330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
