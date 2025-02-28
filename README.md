@@ -20,11 +20,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino)
 
 ---
 ### 📊 GitHub Stats
 ![Cuauhtémoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CuauhtArce&show_icons=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuauhtArce&layout=compact&theme=dark)
 ---
 ### 📬 ¡Conéctate conmigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://1drv.ms/w/c/321567ffd51d68c8/EdtUVNZMKV9JmvtusgfrFH4B1kEg70zgjrINIuo6bP5lnw?e=O1MNYN)
