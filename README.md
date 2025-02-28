@@ -23,7 +23,7 @@
 
 ---
 ### 📊 GitHub Stats
-![Cuauhtémoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tCuauhtArce&show_icons=true&theme=dark)
+![Cuauhtémoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CuauhtArce&show_icons=true&theme=dark)
 
 ---
 ### 📬 ¡Conéctate conmigo!
