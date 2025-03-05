@@ -1,4 +1,4 @@
-## 👋 ¡Hola, soy Cuauhtémoc Abisaid Arce Jaimes!
+## 👋 ¡Hola, soy Cuauhtémoc 
 
 ### 🚀 Tecnologías y Herramientas
 
