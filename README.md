@@ -8,7 +8,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino)
 
 #### 🔧 Frameworks y Herramientas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=springboot&logoColor=white)
@@ -29,5 +28,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuauhtArce&layout=compact&theme=dark)
 ---
 ### 📬 ¡Conéctate conmigo!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://1drv.ms/w/c/321567ffd51d68c8/EdtUVNZMKV9JmvtusgfrFH4B1kEg70zgjrINIuo6bP5lnw?e=O1MNYN](https://www.instagram.com/mr.cuauht_arce?igsh=cmR4YXNnMmo4eGJk))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/cuauhtemoc-abisaid-arce-jaimes-aa98b4330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
