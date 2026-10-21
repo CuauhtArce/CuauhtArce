@@ -22,10 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 
 
----
-### 📊 GitHub Stats
-![Cuauhtémoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CuauhtArce&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuauhtArce&layout=compact&theme=dark)
----
+
 ### 📬 ¡Conéctate conmigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/cuauhtemoc-abisaid-arce-jaimes-aa98b4330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
